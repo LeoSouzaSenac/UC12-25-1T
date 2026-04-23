@@ -1,4 +1,4 @@
-# Módulo 1 — Eventos em JavaScript
+# Eventos em JavaScript
 
 Eventos são o mecanismo que permite ao JavaScript reagir ao usuário.
 
